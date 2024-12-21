@@ -2,7 +2,7 @@ title: Titir Talukder
 #logo: 
 description: 2024 Data Science Graduate
 #show_downloads: false
-theme: minimal-mistakes
+theme: Jekyll-minimal-mistakes
 
 social:
   - icon: "fab fa-linkedin"
