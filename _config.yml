@@ -1,0 +1,27 @@
+title: Titir Talukder
+#logo: 
+description: 2024 Data Science Graduate
+#show_downloads: false
+theme: minimal-mistakes
+
+social:
+  - icon: "fab fa-linkedin"
+    link: "https://www.linkedin.com/in/titir-talukder-721610224/"
+  - icon: "fab fa-github"
+    link: "https://github.com/TIA2689"
+    
+navigation:
+  - title: "Home"
+    url: /https://TIA2689.github.io/Titir-Talukder-Portfolio.github.io
+  - title: "Projects"
+    url: /projects
+  - title: "About"
+    url: /about
+  - title: "Contact"
+    url: /contact
+    
+custom_css: /assets/css/custom.css
+google_analytics: "UA-XXXXXXXXX-X"
+seo:
+  title: "Titir Talukder - Data Science Graduate"
+  description: "Portfolio of Titir Talukder, a Data Science graduate specializing in AI and data analysis."
